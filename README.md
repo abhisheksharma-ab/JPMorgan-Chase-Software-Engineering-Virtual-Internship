@@ -1,6 +1,6 @@
-# JPMorgan-Chase-Virtual-Internship
+# JPMorgan-Chase-Software-Engineering-Virtual-Internship
 
-This repository contains the submitted patch files of the various tasks assigned by JPMorgan Chase &amp; Co. Software Engineering Virtual Internship
+This repository contains the submitted patch files of the various tasks assigned by JPMorgan Chase &amp; Co. Software Engineering Virtual Internship.
 
 ## Website Link:
 
@@ -9,3 +9,7 @@ This repository contains the submitted patch files of the various tasks assigned
 ## My Certificate of Completion 
 
 ![image](https://user-images.githubusercontent.com/76099182/119376151-42d34800-bcd9-11eb-8d07-58b253435869.png)
+
+## For any assistance/queries :
+
+ ✉️ abhishek1643.cse18@chitkara.edu.in
